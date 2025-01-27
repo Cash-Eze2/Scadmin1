@@ -1,9 +1,9 @@
-# Schoolmanagement
+# ScAdmin School management
 
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/Cash-Eze2/Scadmin1/tree/master/schoolmanagement-master/static/homepage.png)
+![homepage snap](https://github.com/Cash-Eze2/Scadmin1/tree/master/schoolmanagement-master/static/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/Cash-Eze2/Scadmin1/schoolmanagement/blob/master/static/screenshots/adminhomepage.png?raw=true)
 ### Admin Manage Teacher
