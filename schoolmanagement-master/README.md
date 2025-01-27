@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/Cash-Eze2/Scadmin1/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/Cash-Eze2/Scadmin1/schoolmanagement-masterschoolmanagement-master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/Cash-Eze2/Scadmin1/schoolmanagement/blob/master/static/screenshots/adminhomepage.png?raw=true)
 ### Admin Manage Teacher
